@@ -1,0 +1,22 @@
+.Userlist{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* background-color: darkgreen; */
+
+}
+.userList{
+    background-image: url(../images/home.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.sheet{
+    background-color: rgba(174, 210, 29, 0.71);
+    margin: 35px;
+    border: 5px solid  rgba(83, 242, 9, 0.668);
+    border-radius: 5%;
+    padding: 25px;
+}
+.sheet:hover{
+    transform: scale(1.1);
+}

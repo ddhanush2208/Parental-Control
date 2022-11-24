@@ -1,0 +1,23 @@
+.wishlistdisp{
+ border: 3px solid #ccc;
+ padding: 15px;
+ border-radius: 5%;
+ width: 500px;
+ height: 200px;
+ /* margin-left: 550px;
+ margin-top: 100px; */
+ margin: 25px;
+ background-color: rgba(52, 244, 244, 0.549);
+
+ }
+ .wishList{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-image: url(https://images.pexels.com/photos/54300/pexels-photo-54300.jpeg?auto=compress&cs=tinysrgb&w=600);
+    background-size: cover;
+    height: 100vh;
+ }
+ .wishlistdisp:hover{
+     transform: scale(1.05);
+ }

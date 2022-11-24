@@ -1,0 +1,11 @@
+.addFavs{
+    /* background-color: blanchedalmond; */
+    background-image: url(../images/Kids\ Under\ 7\ Free\ Kids\ Desktop\ Wallpapers.jpg);
+    background-size: cover;
+    height: 100vh;
+    margin-top: -20px;
+}
+.form label{
+  font-style: italic;
+  font-weight: 500;
+}
