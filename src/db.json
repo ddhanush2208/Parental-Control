@@ -79,7 +79,6 @@
       "list": "dasdasdad",
       "id": 4
     }
-    
   ],
   "info": [
     {
@@ -93,6 +92,10 @@
     {
       "list": "hello",
       "id": 3
+    },
+    {
+      "list": "homework",
+      "id": 4
     }
   ],
   "notes": [
